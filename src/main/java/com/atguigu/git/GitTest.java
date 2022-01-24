@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("hello git2!"+System.currentTimeMillis());
         System.out.println("hello git3!"+System.currentTimeMillis());
         System.out.println("master test");
+        System.out.println("hot-fix");
     }
 }
